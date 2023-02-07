@@ -4,7 +4,7 @@
 
 * **Title**: Perpisahan program PKL
 * **Application**: Penjualan Komputer
-* **Date**: 7 Februari
+* **Date**: 7 Februari 2023
 * **Confidentiality**: Comercial
 
 ### <br/>Ⓒ Nama sekolah

@@ -1,5 +1,5 @@
 # DOKUMENTASI PROGRAM
-#### <br/>Dede Latifa Isnaini - 11220910000034<br/>Muhamad Oskhar Mubarok - 11220910000042<br/>Muhammad Fatihul Choir - 11220910000121
+#### <br/>Rapi<br/>Muhamad Oskhar Mubarok
 #### <br/>Prihal terkait pembuatan dokumentasi:
 
 * **Title**: Perpisahan program PKL
